@@ -1,8 +1,10 @@
 # nalu935
 
-Lets make a 32-Bit iOS 9.3.5 Jailbreak for all 32-Bit Devices
+![Nalu logo](https://github.com/osxusr/nalu935/)
 
-incompelete iOS 9.3.5 Jailbreak for 32-Bit Devices
+A "incomplete" iOS jailbreak for 32-bit devices created by [iosusr](https://twitter.com/iosusr)
+
+Lets make a 32-Bit iOS 9.3.5 Jailbreak for all 32-Bit Devices
 
 # Exploit
 
