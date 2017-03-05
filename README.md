@@ -16,7 +16,7 @@ Beta 1: storyboard, app icon, codesign bypass
 
 Beta 2: TBA
 
-## StoryBoard Supported Devices and iOS versions
+## Already Supported Devices: (StoryBoard)
 
 | Device  | Version  |
 |---------|----------|
@@ -27,20 +27,16 @@ Beta 2: TBA
 
 ### Planned Support: (StoryBoard + Exploit)
 
-In the near future, the jailbreak will support the following devices:
-
 | Device | Version |
 |---------|----------|
 | iPad 2  | iOS 9.3.5|
 | iPad 3  | iOS 9.3.5 |
 | iPad 4  | iOS 9.3.5 |
 | iPad Mini | iOS 9.3.5 |
-
-# Support
-
-Already supported (Storyboard): iPhone 4S, iPhone 5/5C, iPod Touch 5
-
-Planned Support (Storyboard + Exploit): iPhone 4S, iPhone 5, iPhone 5C, iPad 2, iPad 3, iPod Touch 5G, iPad 4, iPad Mini.
+| iPhone 4s  | iOS 9.3.5 |
+| iPhone 5  | iOS 9.3.5 |
+| iPhone 5c | iOS 9.3.5 |
+| iPod touch 5G | iOS 9.3.5 |
 
 # Nalu meaning:
 
