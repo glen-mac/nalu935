@@ -1,4 +1,4 @@
-# nalu935
+## nalu935
 
 ![Nalu logo](https://github.com/osxusr/nalu935/blob/master/32%20bit%20only%20iOS%209.3.5%20Jailbreak/Media.xcassets/AppIcon.appiconset/Icon-83.5%402x.png)
 
@@ -6,7 +6,7 @@ A "incomplete" iOS jailbreak for 32-bit devices created by [iosusr](https://twit
 
 Lets make a 32-Bit iOS 9.3.5 Jailbreak for all 32-Bit Devices
 
-# Nalu meaning:
+## Nalu meaning:
 
 Nalu is the Hawaiian word for wave or surging surf, 
 and the hapa-Hawaiian saying, to “Nalu it” means “go with the flow.” 
@@ -22,7 +22,7 @@ you don't fight the waves, you ride them.
 | iPhone 5c | iOS 9.3.5 |
 | iPod touch 5G | iOS 9.3.5 |
 
-### Planned Support: (StoryBoard + Exploit)
+## Planned Support: (StoryBoard + Exploit)
 
 | Device | Version |
 |---------|----------|
@@ -39,7 +39,7 @@ you don't fight the waves, you ride them.
 
 This jailbreak is incomplete. This is not complete so please dont complain about it not working.
 
-# Beta Change log : Download link
+## Beta Change log:
 
 Beta 1: storyboard, app icon, codesign bypass
 
