@@ -8,6 +8,10 @@ incompelete iOS 9.3.5 Jailbreak for 32-Bit Devices
 
 The exploit isnt included yet
 
+# App Icon added
+
+Added a nalu app icon so we dont have to use that blank plain icon
+
 # Support
 
 Already supported (Storyboard): iPhone 4S, iPhone 5/5C, iPod Touch 5
