@@ -12,6 +12,13 @@ The exploit isnt included yet
 
 Added a nalu app icon so we dont have to use that blank plain icon
 
+# Beta
+
+Beta 1: storyboard, app icon, codesign bypass
+
+Beta 2: TBA
+
+
 # Support
 
 Already supported (Storyboard): iPhone 4S, iPhone 5/5C, iPod Touch 5
