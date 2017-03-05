@@ -43,7 +43,7 @@ This jailbreak is incomplete. This is not complete so please dont complain about
 
 Beta 1: storyboard, app icon, codesign bypass
 
-Beta 2: TBA
+Beta 2: minor fixes, fixed cydia impactor problem.
 
 ## Installing
 
@@ -56,7 +56,7 @@ Beta 2: TBA
 | Version | Download |
 |---------|----------|
 | Beta 1  | [Link](http://www.mediafire.com/file/1fmybx7ssbnofiu/nalu935Beta1.ipa)
-| Beta 2  | TBA
+| Beta 2  | [Link](http://www.mediafire.com/file/pl9n1agjcxk9k8g/nalu935Beta2.ipa)
 
 ## Contributing
 
