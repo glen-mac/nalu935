@@ -14,7 +14,7 @@ Added a nalu app icon so we dont have to use that blank plain icon
 
 # Beta
 
-Beta 1: storyboard, app icon, codesign bypass [Beta 1] http://www.mediafire.com/file/1fmybx7ssbnofiu/nalu935Beta1.ipa]
+Beta 1: storyboard, app icon, codesign bypass [Beta 1] http://www.mediafire.com/file/1fmybx7ssbnofiu/nalu935Beta1.ipa
 
 Beta 2: TBA
 
