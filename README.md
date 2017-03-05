@@ -25,16 +25,16 @@ Beta 2: TBA
 | iPhone 5c | iOS 9.3.5 |
 | iPod touch 5G | iOS 9.3.5 |
 
-### Planned Support:
+### Planned Support: (StoryBoard + Exploit)
 
 In the near future, the jailbreak will support the following devices:
 
 | Device | Version |
 |---------|----------|
 | iPad 2  | iOS 9.3.5|
+| iPad 3  | iOS 9.3.5 |
 | iPad 4  | iOS 9.3.5 |
 | iPad Mini | iOS 9.3.5 |
-| iPad 3  | iOS 9.3.5 |
 
 # Support
 
