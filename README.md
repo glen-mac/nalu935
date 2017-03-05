@@ -6,9 +6,12 @@ A "incomplete" iOS jailbreak for 32-bit devices created by [iosusr](https://twit
 
 Lets make a 32-Bit iOS 9.3.5 Jailbreak for all 32-Bit Devices
 
-# Exploit
+# Nalu meaning:
 
-The exploit isnt included yet
+Nalu is the Hawaiian word for wave or surging surf, 
+and the hapa-Hawaiian saying, to “Nalu it” means “go with the flow.” 
+As every person who learns to swim in the ocean knows, 
+you don't fight the waves, you ride them.
 
 # Beta Change log : Download link
 
@@ -37,13 +40,6 @@ Beta 2: TBA
 | iPhone 5  | iOS 9.3.5 |
 | iPhone 5c | iOS 9.3.5 |
 | iPod touch 5G | iOS 9.3.5 |
-
-# Nalu meaning:
-
-Nalu is the Hawaiian word for wave or surging surf, 
-and the hapa-Hawaiian saying, to “Nalu it” means “go with the flow.” 
-As every person who learns to swim in the ocean knows, 
-you don't fight the waves, you ride them.
 
 ## Warnings
 
