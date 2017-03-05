@@ -13,12 +13,6 @@ and the hapa-Hawaiian saying, to “Nalu it” means “go with the flow.”
 As every person who learns to swim in the ocean knows, 
 you don't fight the waves, you ride them.
 
-# Beta Change log : Download link
-
-Beta 1: storyboard, app icon, codesign bypass
-
-Beta 2: TBA
-
 ## Already Supported Devices: (StoryBoard)
 
 | Device  | Version  |
@@ -44,6 +38,12 @@ Beta 2: TBA
 ## Warnings
 
 This jailbreak is incomplete. This is not complete so please dont complain about it not working.
+
+# Beta Change log : Download link
+
+Beta 1: storyboard, app icon, codesign bypass
+
+Beta 2: TBA
 
 ## Installing
 
