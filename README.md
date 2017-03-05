@@ -2,7 +2,7 @@
 
 ![Nalu logo](https://github.com/osxusr/nalu935/blob/master/32%20bit%20only%20iOS%209.3.5%20Jailbreak/Media.xcassets/AppIcon.appiconset/Icon-83.5%402x.png)
 
-A "incomplete" iOS jailbreak for 32-bit devices created by [iosusr](https://twitter.com/iosusr)
+A "incomplete" iOS jailbreak for 32-bit devices ( created by [iosusr](https://twitter.com/iosusr) )
 
 Lets make a 32-Bit iOS 9.3.5 Jailbreak for all 32-Bit Devices
 
