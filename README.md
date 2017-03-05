@@ -10,16 +10,11 @@ Lets make a 32-Bit iOS 9.3.5 Jailbreak for all 32-Bit Devices
 
 The exploit isnt included yet
 
-# App Icon added
-
-Added a nalu app icon so we dont have to use that blank plain icon
-
 # Beta Change log : Download link
 
 Beta 1: storyboard, app icon, codesign bypass [Link] (http://www.mediafire.com/file/1fmybx7ssbnofiu/nalu935Beta1.ipa)
 
 Beta 2: TBA
-
 
 # Support
 
