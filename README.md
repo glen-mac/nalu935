@@ -43,7 +43,7 @@ Beta 2: TBA
 
 ## Warnings
 
-This jailbreak is a work in progress. Some things do not work, but most things do.
+This jailbreak is incomplete. This is not complete so please dont complain about it not working.
 
 ## Installing
 
