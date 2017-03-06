@@ -41,13 +41,14 @@ This jailbreak is incomplete. This is not complete so please dont complain about
 
 ## Beta Change log:
 
-Beta 1: storyboard, app icon, codesign bypass
+Beta 1: added storyboard, app icon, codesign bypass.
 
 Beta 2: minor fixes, fixed cydia impactor problem.
 
-Beta 3: UI change, new background, added "Ride The Wave" and added "You road the wave!"
+Beta 3: UI change, new background, added "Ride The Wave" for the button 
+        and added "You road the wave!" to the alert.
 
-Beta 4: Support for iPads
+Beta 4: Support for iPads.
 
 Beta 5: TBA
 
