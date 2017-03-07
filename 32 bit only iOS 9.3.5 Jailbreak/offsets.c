@@ -29,7 +29,7 @@ void init_offsets() {
     - @iosusr
     */
 
-    if (strcmp(u.version, "Darwin Kernel Version 16.3.0: Tue Nov 29 21:40:09 PST 2016; root:xnu-3789.32.1~4/RELEASE_ARMv7_") == 0) {
+    if (strcmp(u.version, "Darwin Kernel Version 15.6.0/RELEASE_ARMv7_") == 0) {
         allproc_offset = 0x;
         rootvnode_offset = 0x;
     }
