@@ -17,12 +17,16 @@ you don't fight the waves, you ride them.
 
 | Device  | Version  |
 |---------|----------|
+| iPad 2  | iOS 9.3.5|
+| iPad 3  | iOS 9.3.5 |
+| iPad 4  | iOS 9.3.5 |
+| iPad Mini | iOS 9.3.5 |
 | iPhone 4s  | iOS 9.3.5 |
 | iPhone 5  | iOS 9.3.5 |
 | iPhone 5c | iOS 9.3.5 |
 | iPod touch 5G | iOS 9.3.5 |
 
-## Planned Support: (StoryBoard + Exploit)
+## Planned Support: (Exploit)
 
 | Device | Version |
 |---------|----------|
