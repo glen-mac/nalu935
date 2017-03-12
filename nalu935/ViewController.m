@@ -27,7 +27,7 @@
 }
 - (IBAction)gobuttontapped
 {
-    NSString *title = @"You Road The Wave!";
+    NSString *title = @"You Rode The Wave!";
     NSString *message = @"Please reboot your Device";
     NSString *okText = @"OK";
     
