@@ -49,3 +49,9 @@ void init_offsets() {
         allproc_offset = ;
         rootvnode_offset = ;
     } // iPad Offsets
+    
+    }//some beta ios
+    else {
+        printf("missing offset, prob crashing\n");
+    }
+}
