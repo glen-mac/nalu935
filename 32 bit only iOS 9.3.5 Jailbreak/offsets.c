@@ -39,3 +39,13 @@ void init_offsets() {
         allproc_offset = 0x45717c;
         rootvnode_offset = 0x411120;
     } // iPad3,1-3,3 Offsets
+    
+    if (strcmp(u.version, "Darwin Kernel Version 15.6.0: Fri Aug 19 10:37:55 PDT 2016; root:xnu-3248.61.1~1/RELEASE_ARM_") == 0) {
+        allproc_offset = ;
+        rootvnode_offset = ;
+    } // iPhone Offsets
+
+    if (strcmp(u.version, "Darwin Kernel Version 15.6.0: Fri Aug 19 10:37:55 PDT 2016; root:xnu-3248.61.1~1/RELEASE_ARM_") == 0) {
+        allproc_offset = ;
+        rootvnode_offset = ;
+    } // iPad Offsets
