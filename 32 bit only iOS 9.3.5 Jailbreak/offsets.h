@@ -3,7 +3,7 @@
 
 #import <stdint.h>
 
-// offsets from the main kernel 0xfeedfacf
+// offsets from the main kernel
 extern uint64_t allproc_offset;
 extern uint64_t kernproc_offset;
 
