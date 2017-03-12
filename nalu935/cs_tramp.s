@@ -1,3 +1,4 @@
+//9.3.5 codesign bypass
 //found by @kpwn aka @qwertyoruiop
 .align 4
 .globl __tramp_begin
