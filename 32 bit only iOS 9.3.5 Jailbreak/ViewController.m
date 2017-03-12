@@ -1,9 +1,9 @@
 //
 //  ViewController.m
-//  32 bit only iOS 9.3.5 Jailbreak
+//  nalu935
 //
-//  Created by Brandon Withall on 2017-02-14.
-//  Copyright © 2017 Brando1235703. All rights reserved.
+//  Created by @iosusr
+//  Copyright © 2017 @iosusr. All rights reserved.
 //
 
 #import "ViewController.h"
@@ -27,7 +27,7 @@
 }
 - (IBAction)gobuttontapped
 {
-    NSString *title = @"Exploit installed!";
+    NSString *title = @"You Road The Wave!";
     NSString *message = @"Please reboot your Device";
     NSString *okText = @"OK";
     
