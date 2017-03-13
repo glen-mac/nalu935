@@ -1,5 +1,4 @@
-//9.3.5 codesign bypass
-//found by @kpwn aka @qwertyoruiop
+
 #import <Foundation/Foundation.h>
 #import <sys/syscall.h>
 #import <dlfcn.h>

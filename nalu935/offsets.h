@@ -1,9 +1,7 @@
 #ifndef offsets_h
 #define offsets_h
 
-#import <stdint.h>
-
-// offsets from the main kernel
+// offsets from the main kernel 0xfeedfacf
 extern uint64_t allproc_offset;
 extern uint64_t kernproc_offset;
 
@@ -32,6 +30,5 @@ extern uint64_t struct_ipc_space_is_table_offset;
 extern uint64_t struct_ipc_port_ip_kobject_offset;
 
 void init_offsets();
-extern uint64_t rootvnode_offset;
 
 #endif
