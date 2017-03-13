@@ -7,9 +7,9 @@ A "incomplete" iOS jailbreak for 32-bit devices ( created by [iosusr](https://tw
 
 Lets make a 32-Bit iOS 9.3.5 Jailbreak for all 32-Bit Devices
 
-I'm trying to make mach_portal work on 32-bit devices.
+I'm trying to make [mach_portal](https://bugs.chromium.org/p/project-zero/issues/detail?id=965) work on 32-bit devices.  
 
-I'm also using 935csbypass by @qwertyoruiopz.
+I'm also using [935csbypass](https://github.com/kpwn/935csbypass) by [@qwertyoruiopz](https://twitter.com/qwertyoruiopz). 
 
 ## Nalu meaning:
 
