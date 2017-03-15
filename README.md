@@ -55,7 +55,7 @@ Beta 1: added storyboard, app icon, codesign bypass.
 Beta 2: minor fixes, fixed cydia impactor problem.
 
 Beta 3: UI change, new background, added "Ride The Wave" for the button 
-        and added "You road the wave!" to the alert.
+        and added "You rode the wave!" to the alert.
 
 Beta 4: Support for iPads.
 
