@@ -1,3 +1,5 @@
+//I'm using 935csbypass by @qwertyoruiopz.
+
 .align 4
 .globl __tramp_begin
 .globl __tramp_end
