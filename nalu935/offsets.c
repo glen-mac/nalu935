@@ -131,18 +131,6 @@ void init_offsets() {
         struct_ipc_space_is_table_offset = 0x20;
         struct_ipc_port_ip_kobject_offset = 0x68;
     } // iPad3,1-3,3 Offsets
-    
-    else if (strstr(u.machine, "iPod7,1")) {
-        // this is an iPod 6G
-        if (strstr(u.version, "root:xnu-3789.22.3~1/RELEASE_ARM64_T7000")) {
-            printf("this is a known kernel build for iPod touch 6G - offsets should be okay\n");
-        }
-        else {
-            unknown_build();
-        }
-        init_ipod_touch_6g_10_1_1_14b100();
-        return;
-    }
   
     else {
         printf("don't recognize this platform\n");
