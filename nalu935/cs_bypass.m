@@ -1,4 +1,4 @@
-//I'm using 935csbypass by @qwertyoruiopz.
+//I'm using 935csbypass by @qwertyoruiopz
 
 #import <Foundation/Foundation.h>
 #import <sys/syscall.h>
