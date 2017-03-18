@@ -1,4 +1,4 @@
-This piece of code is licensed under the "Anyone but Stefan Esser" (ABSE) license, described below. No other licenses may apply.
+This piece of code is licensed under the "Anyone but Stefan Esser and iH8sn0w" (ABSEiHS) license, described below. No other licenses may apply.
 
 The "Anyone But Stefan Esser" license
 
@@ -11,3 +11,4 @@ In the unlikely event that you happen to make a zillion bucks off of this, then 
 EXCEPTIONS
 
 Stefan Esser (i0n1c, that one angry german guy, etc.) may not make use of or redistrubute this program or any of its derivatives.
+iH8sn0w (the Canadian guy that posts anything you tell him not to) may not make use of or redistrubute this program or any of its derivatives.
