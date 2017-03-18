@@ -1,6 +1,6 @@
 This piece of code is licensed under the "Anyone but Stefan Esser and iH8sn0w" (ABSEiHS) license, described below. No other licenses may apply.
 
-The "Anyone But Stefan Esser" license
+The "Anyone But Stefan Esser and iH8sn0w" license
 
 Do anything you want with this code, with the exceptions listed below under "EXCEPTIONS".
 
